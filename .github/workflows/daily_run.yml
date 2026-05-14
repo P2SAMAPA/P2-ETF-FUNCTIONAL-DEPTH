@@ -2,7 +2,7 @@ name: Daily Functional Depth Run
 
 on:
   schedule:
-    - cron: '30 05 * * 1-5'
+    - cron: '30 02 * * 1-5'
   workflow_dispatch:
 
 jobs:
